@@ -1,0 +1,28 @@
+_repo: '---_27172'
+_version: 0.1.0
+alternative_title: Geng Si Bian
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lu, Can
+    alias: 陸粲
+    birthdate: 1494
+    deathdate: 1551
+    gutenberg_agent_id: '32509'
+    url: http://www.gutenberg.org/2009/agents/32509
+description: ''
+gutenberg_issued: '2008-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27172'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Ming dynasty, 1368-1644 -- Anecdotes'
+- !lcc 'PL'
+title: 庚巳編
+url: http://www.gutenberg.org/ebooks/27172
